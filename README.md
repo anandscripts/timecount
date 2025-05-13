@@ -1,4 +1,4 @@
-# Time Count Web
+# Time Count Web App
 
 A React application that displays a countdown timer showing the number of seconds remaining until midnight.
 
@@ -20,8 +20,8 @@ A React application that displays a countdown timer showing the number of second
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/timecountweb.git
-cd timecountweb
+git clone https://github.com/yourusername/timecount.git
+cd timecount
 ```
 
 2. Install dependencies:
